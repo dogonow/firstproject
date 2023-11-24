@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main()
-{
+int main() {
 	printf("Hello Git!\n");
+	return 0;
 }
